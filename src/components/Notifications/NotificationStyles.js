@@ -43,7 +43,7 @@ export const HeaderButton = styled.button`
       left: 5px;
       width: 5px;
       height: 5px;
-      background: url("orangeCircle.svg") center no-repeat;
+      background: url("images/orangeCircle.svg") center no-repeat;
     }
   }
 `
@@ -60,7 +60,7 @@ export const HeaderArrowButton = styled.span`
     left: 50%;
     width: 8px;
     height: 4px;
-    background: url("headerArrow.svg") center no-repeat;
+    background: url("images/headerArrow.svg") center no-repeat;
   }
 `
 

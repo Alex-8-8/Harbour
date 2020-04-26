@@ -37,7 +37,7 @@ const Notifications = () => {
                 Non-residential building
               </Styled.NotificationsInfo>
               <Styled.NotificationsInfo>
-              <Styled.NotificationsImage src="notificationImage.jpg" />
+              <Styled.NotificationsImage src='images/notificationImage.jpg' alt='user-photo'/>
               05/14/2019
               </Styled.NotificationsInfo>
             </Styled.NotificationsItem>
@@ -48,7 +48,7 @@ const Notifications = () => {
                 Non-residential building
               </Styled.NotificationsInfo>
               <Styled.NotificationsInfo>
-              <Styled.NotificationsImage src="notificationImage.jpg" />
+              <Styled.NotificationsImage src="images/notificationImage.jpg" alt='user-photo'/>
               05/14/2019
               </Styled.NotificationsInfo>
             </Styled.NotificationsItem>
@@ -59,7 +59,7 @@ const Notifications = () => {
                 Non-residential building
               </Styled.NotificationsInfo>
               <Styled.NotificationsInfo>
-              <Styled.NotificationsImage src="notificationImage.jpg" />
+              <Styled.NotificationsImage src="notificationImage.jpg" alt='user-photo'/>
               05/14/2019
               </Styled.NotificationsInfo>
             </Styled.NotificationsItem>
