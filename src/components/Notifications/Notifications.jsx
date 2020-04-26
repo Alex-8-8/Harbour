@@ -9,8 +9,6 @@ const Notifications = () => {
     setToggleNotification(!toggleNotification)
   )
 
-  console.log(toggleNotification)
-
   return (
     <Styled.Header>
       <Styled.HeaderWrapper>
