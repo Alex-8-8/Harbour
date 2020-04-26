@@ -5,6 +5,11 @@ export const Header = styled.header`
   height: 100vh;
 `
 
+export const HeaderWrapper = styled.div`
+  max-width: 1366px;
+  margin: auto;
+`
+
 export const HeaderNav = styled.div`
   position: relative;
   height: 48px;
