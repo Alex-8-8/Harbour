@@ -17,7 +17,7 @@ position: relative;
     transform: translateY(-50%);
     width: 12px;
     height: 12px;
-    background: url(${({toggleCalendar}) => toggleCalendar ? "images/calendar.svg" : "images/calendarBlack.svg"});
+    background: url(${({toggleCalendar}) => toggleCalendar ? "calendar.svg" : "calendarBlack.svg"});
   }
 `
 
