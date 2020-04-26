@@ -4,7 +4,7 @@ export const SectionWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: start;
-  height: 50vh;
+  height: 600px;
 `
 
 export const DataPickerLabel = styled.label`

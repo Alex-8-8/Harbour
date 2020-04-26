@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Header = styled.header`
   position: relative;
-  height: 100vh;
+  min-height: 100vh;
 `
 
 export const HeaderWrapper = styled.div`
