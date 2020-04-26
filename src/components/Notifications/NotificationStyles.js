@@ -48,7 +48,7 @@ export const HeaderButton = styled.button`
   }
 `
 
-export const HeaderArrowButton = styled.span`
+export const HeaderArrowButton = styled.button`
   border: none; 
   cursor: pointer;
   position: relative;
