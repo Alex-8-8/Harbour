@@ -101,7 +101,7 @@ export const AccountUserName = styled.div`
 
 export const NotificationsList = styled.ul`
   position: absolute; 
-  display: flex;
+  display: "flex";
   flex-direction: column;
   padding: 10px;
   top: 35px;
