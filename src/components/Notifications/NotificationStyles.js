@@ -139,8 +139,9 @@ export const NotificationsImage = styled.img`
   margin-right: 6px;
 `
 
-export const NotificationButton = styled.div`
+export const NotificationShowMore = styled.div`
   cursor: pointer;
+  width: 100px;
   margin: 24px auto;
   border: none;
   background: transparent;

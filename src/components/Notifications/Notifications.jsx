@@ -70,10 +70,10 @@ const Notifications = () => {
                 05/14/2019
                 </Styled.NotificationsInfo>
               </Styled.NotificationsItem>
-              <Styled.NotificationButton>
+              <Styled.NotificationShowMore>
               Show more{' '}
               <Styled.NotificationButtonNumber>(12)</Styled.NotificationButtonNumber>
-              </Styled.NotificationButton>
+              </Styled.NotificationShowMore>
             </Styled.NotificationsList>}
           </Styled.HeaderButton>
           </Styled.ActionsBox>
